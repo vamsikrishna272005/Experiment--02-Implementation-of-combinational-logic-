@@ -37,6 +37,7 @@ RegisterNumber: 23006287
 ## RTL realization
 
 ##Truth Table
+![Screenshot 2023-11-30 212535](https://github.com/vamsikrishna272005/Experiment--02-Implementation-of-combinational-logic-/assets/147477015/2195ddf2-4d49-4dd4-ae4a-b222a96e587f)
 
 
 ![Exp2 truthtable](https://github.com/vamsikrishna272005/Experiment--02-Implementation-of-combinational-logic-/assets/147477015/d19d4171-ddba-4b59-bcd2-196100a87650)
